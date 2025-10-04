@@ -33,7 +33,7 @@ const BRAND = {
   name: "Probsolv",
   tagline: "AI-powered websites for businesses & startups",
   location: "Pakistan",
-  email: "sameer@probsolv.online",
+  email: "info@probsolv.online",
   phone: "+92-327-2583013",
   whatsapp: "923272583013",
   bookingUrl: "#contact",
@@ -434,7 +434,7 @@ export default function Page() {
             <div className="flex flex-col sm:flex-row gap-3">
               <input
                 type="email"
-                placeholder="you@business.com"
+                placeholder="you@gmail.com"
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
                 className="h-11 flex-1 rounded-xl border px-3 text-sm outline-none dark:bg-gray-700"
