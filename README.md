@@ -1,36 +1,77 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌐 Web Development Services by Mehdi Hassan
 
-## Getting Started
+Hi there 👋  
+I'm **Mehdi Hassan**, a passionate **Front-End Web Developer** helping businesses and individuals turn their ideas into modern, responsive, and high-performing websites.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 What I Offer
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 💼 Business Websites
+- Professional landing pages for startups and local businesses  
+- Portfolio & company profile websites  
+- Integration with WhatsApp, contact forms, and Google Maps  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 🏨 Hotel / Service Booking Sites
+- Custom booking forms with email notifications  
+- Automated customer inquiry systems  
+- Admin panel integration (optional)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 🛒 E-Commerce & Catalog Sites
+- Product showcase or simple shop setups  
+- WhatsApp order system (no payment gateway required)  
+- Mobile-friendly, SEO-optimized layouts
 
-## Learn More
+### ⚙️ Other Services
+- Website redesign or UI improvement  
+- Hosting & domain setup help  
+- SEO optimization for better Google ranking  
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🧩 Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Frontend:** HTML5, CSS3, JavaScript, TailwindCSS, Bootstrap  
+- **Frameworks:** React.js / Next.js (for advanced projects)  
+- **Tools:** Git, GitHub, VS Code, Canva  
+- **Hosting:** GitHub Pages, Netlify, Vercel, custom domains & Paid hosting  
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🕓 Work Process
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. **Discussion:** Understand your goals and vision  
+2. **Design:** Create a layout or sample UI for approval  
+3. **Development:** Build your site using clean, responsive code  
+4. **Delivery:** Final site uploaded + training (if needed)
+
+---
+
+## 💬 Let's Work Together
+
+📩 **Email:** info@probsolv.online
+💬 **WhatsApp:** [Chat Now](https://wa.me/923272583013)  
+🌍 **Portfolio:** [probsolv.online](https://www.probsolv.online)  
+📱 **Facebook:** [facebook.com/profile.php?id=61578139677102](https://facebook.com/profile.php?id=61578139677102)
+
+---
+
+ 🧠 About Me
+I'm a self-taught web developer from Sindh, Pakistan, passionate about building responsive websites and useful digital products.  
+My mission is to help small businesses and solopreneurs go online and grow through smart, creative website solutions.
+
+> “Code that connects people and brings ideas to life.” – Mehdi Hassan
+
+---
+
+## ⭐ Why Choose Me?
+✅ Fast delivery & mobile-responsive design  
+✅ Clean, SEO-friendly code  
+✅ Friendly communication  
+✅ Support even after project delivery  
+
+---
+
+### 💻 Need a Website?
+Let’s build something amazing together!  
+→ [Message me on WhatsApp](https://wa.me/923272583013)
