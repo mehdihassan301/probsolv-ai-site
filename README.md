@@ -1,7 +1,7 @@
 # 🌐 Web Development Services by Mehdi Hassan
 
 Hi there 👋  
-I'm **Mehdi Hassan**, a passionate **Front-End Web Developer** helping businesses and individuals turn their ideas into modern, responsive, and high-performing websites.
+I'm **Mehdi Hassan**, a skilled **Front-End & Backend Web Developer** helping businesses and individuals turn their ideas into modern, responsive, and high-performing websites.
 
 ---
 
