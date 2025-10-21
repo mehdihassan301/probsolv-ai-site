@@ -8,14 +8,9 @@ I'm **Mehdi Hassan**, a skilled **Front-End & Backend Web Developer** helping bu
 ## 🚀 What I Offer
 
 ### 💼 Business Websites
-- Professional landing pages for startups and local businesses  
+- Professional custom pages website, landing, portfolio pages for freelancers, local businessowners, and individuals. 
 - Portfolio & company profile websites  
 - Integration with WhatsApp, contact forms, and Google Maps  
-
-### 🏨 Hotel / Service Booking Sites
-- Custom booking forms with email notifications  
-- Automated customer inquiry systems  
-- Admin panel integration (optional)
 
 ### 🛒 E-Commerce & Catalog Sites
 - Product showcase or simple shop setups  
@@ -31,7 +26,7 @@ I'm **Mehdi Hassan**, a skilled **Front-End & Backend Web Developer** helping bu
 
 ## 🧩 Tech Stack
 
-- **Frontend:** HTML5, CSS3, JavaScript, TailwindCSS, Bootstrap  
+- **Frontend:** HTML5, CSS3, JavaScript, Typescript, TailwindCSS   
 - **Frameworks:** React.js / Next.js (for advanced projects)  
 - **Tools:** Git, GitHub, VS Code, Canva  
 - **Hosting:** GitHub Pages, Netlify, Vercel, custom domains & Paid hosting  
@@ -52,7 +47,7 @@ I'm **Mehdi Hassan**, a skilled **Front-End & Backend Web Developer** helping bu
 📩 **Email:** info@probsolv.online
 💬 **WhatsApp:** [Chat Now](https://wa.me/923272583013)  
 🌍 **Portfolio:** [probsolv.online](https://www.probsolv.online)  
-📱 **Facebook:** [facebook.com/profile.php?id=61578139677102](https://facebook.com/profile.php?id=61578139677102)
+📱 **Facebook:** [facebook.com/profile.php?id=61578139677102](https://www.facebook.com/mehdi.hassan.607411)
 
 ---
 
@@ -67,7 +62,7 @@ My mission is to help small businesses and solopreneurs go online and grow throu
 ## ⭐ Why Choose Me?
 ✅ Fast delivery & mobile-responsive design  
 ✅ Clean, SEO-friendly code  
-✅ Friendly communication  
+✅ Friendly communication, Understanding your vision before buliding
 ✅ Support even after project delivery  
 
 ---
