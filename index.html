@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Website Update — Mehdi Hassan</title>
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=YOUR_GA_TRACKING_ID"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'YOUR_GA_TRACKING_ID');
+  </script>
+  <!-- End GA -->
+
+  <style>
+    :root{--bg:#000;--card:#111;--muted:#9aa4b2;--accent:#ff3333}
+    *{box-sizing:border-box}
+    body{
+      margin:0;
+      font-family:'Poppins',system-ui;
+      background:radial-gradient(circle at center,var(--accent) 0%,#000 70%);
+      color:#fff;
+      min-height:100vh;
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      padding:32px;
+    }
+    @keyframes pulseGlow {
+      0%,100% {
+        transform:scale(1);
+        text-shadow:0 0 10px rgba(255,51,51,0.6),0 0 20px rgba(255,51,51,0.4);
+        box-shadow:0 0 10px rgba(255,51,51,0.3),0 0 20px rgba(255,51,51,0.1);
+      }
+      50% {
+        transform:scale(1.03);
+        text-shadow:0 0 20px rgba(255,51,51,0.8),0 0 40px rgba(255,51,51,0.6);
+        box-shadow:0 0 20px rgba(255,51,51,0.6),0 0 40px rgba(255,51,51,0.4);
+      }
+    }
+    .animate-glow{animation:pulseGlow 3s ease-in-out infinite}
+    .container{max-width:1100px;width:100%;display:grid;grid-template-columns:1fr 360px;gap:32px;align-items:center}
+    @media(max-width:880px){.container{grid-template-columns:1fr;padding:20px}}
+    .hero{padding:48px;background:rgba(0,0,0,0.6);border-radius:18px;box-shadow:0 8px 30px rgba(0,0,0,0.8)}
+    h1{font-size:46px;line-height:1.1;margin:0 0 14px;font-weight:800;color:#fff;transition:color .3s}
+    h1:hover{color:var(--accent)}
+    p.lead{margin:0 0 20px;color:var(--muted);font-size:16px}
+    .meta{display:flex;gap:12px;align-items:center}
+    .name-badge{background:rgba(255,51,51,0.1);padding:8px 12px;border-radius:999px;font-weight:600;color:var(--accent)}
+    .card{background:var(--card);border-radius:14px;padding:18px;display:flex;flex-direction:column;align-items:center;gap:14px;box-shadow:0 6px 24px rgba(0,0,0,0.6)}
+    .profile-img{
+      width:240px;
+      height:320px;
+      border-radius:10px;
+      object-fit:cover;
+      border:2px solid rgba(255,255,255,0.1);
+      box-shadow:0 0 20px rgba(255,51,51,0.2);
+      transition:transform .3s, box-shadow .3s;
+    }
+    .profile-img:hover{
+      transform:scale(1.05);
+      box-shadow:0 0 40px rgba(255,51,51,0.5);
+      border-color:var(--accent);
+    }
+    .btn{display:inline-block;padding:12px 16px;border-radius:10px;border:0;background:var(--accent);color:white;font-weight:600;cursor:pointer;text-align:center;transition:.3s;width:100%}
+    .btn:hover{background:#ff5555;transform:translateY(-2px)}
+    .note{font-size:13px;color:var(--muted);text-align:center}
+    .whatsapp-link{text-decoration:none}
+  </style>
+</head>
+<body>
+  <main class="container" role="main">
+    <section class="hero animate-glow" aria-labelledby="update-title">
+      <h1 id="update-title" class="animate-glow">
+        We are improving the website — new features and updates are on the way!
+      </h1>
+      <p class="lead">
+        Thank you for your patience as we enhance your experience and add new material.
+      </p>
+      <div class="meta">
+        <span class="name-badge animate-glow">Mehdi Hassan</span>
+        <span style="color:var(--muted);font-size:14px">— Website development in progress</span>
+      </div>
+      <div style="margin-top:30px">
+        <a href="https://wa.me/923272583013?text=Hi%20Mehdi,%20I%20want%20to%20view%20your%20clients%20websites"
+           target="_blank"
+           class="whatsapp-link">
+          <button class="btn animate-glow">View My Clients Websites</button>
+        </a>
+      </div>
+    </section>
+
+    <aside class="card animate-glow">
+      <div style="width:100%;display:flex;justify-content:space-between;align-items:center">
+        <strong>On the way</strong>
+        <span class="note">Vertical portrait (auto loaded from github)</span>
+      </div>
+      <img src="profile.jpg" alt="Mehdi Hassan" class="profile-img" />
+    </aside>
+  </main>
+</body>
+</html>
